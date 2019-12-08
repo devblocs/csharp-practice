@@ -1,0 +1,11 @@
+F:\dotnet\csharp\reverse\bin\Debug\netcoreapp3.1\reverse.exe
+F:\dotnet\csharp\reverse\bin\Debug\netcoreapp3.1\reverse.deps.json
+F:\dotnet\csharp\reverse\bin\Debug\netcoreapp3.1\reverse.runtimeconfig.json
+F:\dotnet\csharp\reverse\bin\Debug\netcoreapp3.1\reverse.runtimeconfig.dev.json
+F:\dotnet\csharp\reverse\bin\Debug\netcoreapp3.1\reverse.dll
+F:\dotnet\csharp\reverse\bin\Debug\netcoreapp3.1\reverse.pdb
+F:\dotnet\csharp\reverse\obj\Debug\netcoreapp3.1\reverse.csprojAssemblyReference.cache
+F:\dotnet\csharp\reverse\obj\Debug\netcoreapp3.1\reverse.AssemblyInfoInputs.cache
+F:\dotnet\csharp\reverse\obj\Debug\netcoreapp3.1\reverse.AssemblyInfo.cs
+F:\dotnet\csharp\reverse\obj\Debug\netcoreapp3.1\reverse.dll
+F:\dotnet\csharp\reverse\obj\Debug\netcoreapp3.1\reverse.pdb

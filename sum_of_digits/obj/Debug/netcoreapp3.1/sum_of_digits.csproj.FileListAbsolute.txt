@@ -1,0 +1,11 @@
+F:\dotnet\csharp\sum_of_digits\obj\Debug\netcoreapp3.1\sum_of_digits.csprojAssemblyReference.cache
+F:\dotnet\csharp\sum_of_digits\obj\Debug\netcoreapp3.1\sum_of_digits.AssemblyInfoInputs.cache
+F:\dotnet\csharp\sum_of_digits\obj\Debug\netcoreapp3.1\sum_of_digits.AssemblyInfo.cs
+F:\dotnet\csharp\sum_of_digits\bin\Debug\netcoreapp3.1\sum_of_digits.exe
+F:\dotnet\csharp\sum_of_digits\bin\Debug\netcoreapp3.1\sum_of_digits.deps.json
+F:\dotnet\csharp\sum_of_digits\bin\Debug\netcoreapp3.1\sum_of_digits.runtimeconfig.json
+F:\dotnet\csharp\sum_of_digits\bin\Debug\netcoreapp3.1\sum_of_digits.runtimeconfig.dev.json
+F:\dotnet\csharp\sum_of_digits\bin\Debug\netcoreapp3.1\sum_of_digits.dll
+F:\dotnet\csharp\sum_of_digits\bin\Debug\netcoreapp3.1\sum_of_digits.pdb
+F:\dotnet\csharp\sum_of_digits\obj\Debug\netcoreapp3.1\sum_of_digits.dll
+F:\dotnet\csharp\sum_of_digits\obj\Debug\netcoreapp3.1\sum_of_digits.pdb

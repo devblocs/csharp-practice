@@ -1,0 +1,11 @@
+F:\dotnet\csharp\armstrong\obj\Debug\netcoreapp3.1\armstrong.csprojAssemblyReference.cache
+F:\dotnet\csharp\armstrong\obj\Debug\netcoreapp3.1\armstrong.AssemblyInfoInputs.cache
+F:\dotnet\csharp\armstrong\obj\Debug\netcoreapp3.1\armstrong.AssemblyInfo.cs
+F:\dotnet\csharp\armstrong\bin\Debug\netcoreapp3.1\armstrong.exe
+F:\dotnet\csharp\armstrong\bin\Debug\netcoreapp3.1\armstrong.deps.json
+F:\dotnet\csharp\armstrong\bin\Debug\netcoreapp3.1\armstrong.runtimeconfig.json
+F:\dotnet\csharp\armstrong\bin\Debug\netcoreapp3.1\armstrong.runtimeconfig.dev.json
+F:\dotnet\csharp\armstrong\bin\Debug\netcoreapp3.1\armstrong.dll
+F:\dotnet\csharp\armstrong\bin\Debug\netcoreapp3.1\armstrong.pdb
+F:\dotnet\csharp\armstrong\obj\Debug\netcoreapp3.1\armstrong.dll
+F:\dotnet\csharp\armstrong\obj\Debug\netcoreapp3.1\armstrong.pdb

@@ -1,0 +1,11 @@
+F:\dotnet\csharp\swap\bin\Debug\netcoreapp3.1\swap.exe
+F:\dotnet\csharp\swap\bin\Debug\netcoreapp3.1\swap.deps.json
+F:\dotnet\csharp\swap\bin\Debug\netcoreapp3.1\swap.runtimeconfig.json
+F:\dotnet\csharp\swap\bin\Debug\netcoreapp3.1\swap.runtimeconfig.dev.json
+F:\dotnet\csharp\swap\bin\Debug\netcoreapp3.1\swap.dll
+F:\dotnet\csharp\swap\bin\Debug\netcoreapp3.1\swap.pdb
+F:\dotnet\csharp\swap\obj\Debug\netcoreapp3.1\swap.csprojAssemblyReference.cache
+F:\dotnet\csharp\swap\obj\Debug\netcoreapp3.1\swap.AssemblyInfoInputs.cache
+F:\dotnet\csharp\swap\obj\Debug\netcoreapp3.1\swap.AssemblyInfo.cs
+F:\dotnet\csharp\swap\obj\Debug\netcoreapp3.1\swap.dll
+F:\dotnet\csharp\swap\obj\Debug\netcoreapp3.1\swap.pdb

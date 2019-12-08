@@ -1,0 +1,11 @@
+F:\dotnet\csharp\prime\obj\Debug\netcoreapp3.1\prime.csprojAssemblyReference.cache
+F:\dotnet\csharp\prime\obj\Debug\netcoreapp3.1\prime.AssemblyInfoInputs.cache
+F:\dotnet\csharp\prime\obj\Debug\netcoreapp3.1\prime.AssemblyInfo.cs
+F:\dotnet\csharp\prime\bin\Debug\netcoreapp3.1\prime.exe
+F:\dotnet\csharp\prime\bin\Debug\netcoreapp3.1\prime.deps.json
+F:\dotnet\csharp\prime\bin\Debug\netcoreapp3.1\prime.runtimeconfig.json
+F:\dotnet\csharp\prime\bin\Debug\netcoreapp3.1\prime.runtimeconfig.dev.json
+F:\dotnet\csharp\prime\bin\Debug\netcoreapp3.1\prime.dll
+F:\dotnet\csharp\prime\bin\Debug\netcoreapp3.1\prime.pdb
+F:\dotnet\csharp\prime\obj\Debug\netcoreapp3.1\prime.dll
+F:\dotnet\csharp\prime\obj\Debug\netcoreapp3.1\prime.pdb
